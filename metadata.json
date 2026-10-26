@@ -1,0 +1,6 @@
+{
+  "name": "AI Researcher - Terminal Research Agent",
+  "description": "Autonomous AI Research & Data Science System (AI Researcher Division) powered by Google Gemini and LangGraph for academic retrieval and analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

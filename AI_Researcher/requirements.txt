@@ -1,0 +1,21 @@
+# Autonomous AI Researcher - Academic Division
+# Official Google GenAI Python SDK
+google-genai>=2.4.0
+
+# Multi-stage agentic workflow orchestration
+langgraph>=1.2.0
+
+# Rigorous schema validation and structured data serialization
+pydantic>=2.0.0
+
+# Local environment configuration
+python-dotenv>=1.0.0
+
+# Academic paper retrieval APIs
+requests>=2.31.0
+
+# Clean terminal formatting
+rich>=13.0.0
+
+# Automated unit and integration testing
+pytest>=8.0.0

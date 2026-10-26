@@ -1,0 +1,69 @@
+{
+  "title": "Autonomous Scientific Assessment: How Build Offline Autonomous Test",
+  "research_question": "How to build offline autonomous test harnesses?",
+  "executive_summary": "This autonomous research investigation evaluated 'How to build offline autonomous test harnesses?'. A total of 1 peer-reviewed academic publications were retrieved, deduplicated, and verified. Comparative synthesis surfaced 0 candidate research gaps, resulting in 0 falsifiable hypotheses and 0 reproducible experimental protocols. Peer review audit completed with an overall rigor score of 9.0/10.0.",
+  "methodology": "Multi-agent autonomous research pipeline coordinated via LangGraph and Google Gemini. Academic records retrieved via live arXiv API with Atom XML parsing and secondary Semantic Scholar indexing. Deterministic citation verification and epistemic calibration applied at every stage.",
+  "papers": [
+    {
+      "id": "P001",
+      "title": "Offline Test Paper",
+      "authors": [
+        "Scientist A"
+      ],
+      "abstract": "Offline testing abstract.",
+      "published_date": null,
+      "source": "arXiv",
+      "paper_id": "2401.99999",
+      "url": "https://arxiv.org/abs/2401.99999",
+      "pdf_url": "https://arxiv.org/pdf/2401.99999.pdf",
+      "abstract_only": true
+    }
+  ],
+  "analyses": [],
+  "literature_review": {
+    "synthesis_narrative": "Synthetic review analyzing [P001].",
+    "common_methodologies": [
+      "Offline simulation"
+    ],
+    "divergent_approaches": [
+      "None"
+    ],
+    "agreements_and_disagreements": [
+      "Consensus"
+    ],
+    "evidence_limitations": [
+      "Simulation depth only"
+    ],
+    "unresolved_questions": [
+      "Real world transfer"
+    ]
+  },
+  "research_gaps": [],
+  "hypotheses": [],
+  "experiment_designs": [],
+  "validation": {
+    "is_valid": true,
+    "score": 9.0,
+    "warnings": [],
+    "critique": "Methodologically rigorous offline audit.",
+    "revision_needed": false,
+    "unverified_citations": []
+  },
+  "limitations_and_uncertainties": [
+    "Abstract-Level Evidence: Analysis is grounded strictly in peer-reviewed abstracts and open metadata; full-text appendices were not parsed in this pass.",
+    "Provisional Novelty: Identified research gaps represent candidate opportunities within the retrieved query scope and require human domain verification.",
+    "Experimental Design Status: All proposed benchmark outcomes are formal scientific predictions; empirical execution is required to establish validation."
+  ],
+  "references": [
+    {
+      "id": "P001",
+      "title": "Offline Test Paper",
+      "authors": "Scientist A",
+      "published": "n.d.",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2401.99999",
+      "pdf_url": "https://arxiv.org/pdf/2401.99999.pdf"
+    }
+  ],
+  "generated_at": "2026-10-26T10:20:33.237970"
+}
